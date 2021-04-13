@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>1.26.10</Version>   
-   <PreviewVersion>1.26.10</PreviewVersion>
-   <ReleaseDate>April 8, 2021</ReleaseDate>
-   <Title>Markdown Monster 1.26.10 is now available</Title>
+   <Version>1.26.12</Version>   
+   <PreviewVersion>1.26.12</PreviewVersion>
+   <ReleaseDate>April 13, 2021</ReleaseDate>
+   <Title>Markdown Monster 1.26.12 is now available</Title>
    <Detail>
-Recent updates add Project Support, Find in Files, Open in New Window, Drag and Drop between Instances, Improved Favorites and Git Integration and much more.
+Recent updates add a new redesigned table editor, many preview sync improvements, improved folder browser file search,  integrated 'web search &amp; link' functionality and much more.
 
 For more detailed release info please see:
 https://github.com/RickStrahl/MarkdownMonster/blob/master/Changelog.md
