@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>1.27.7.1</Version>   
-   <PreviewVersion>1.27.7.1</PreviewVersion>
+   <Version>1.27.7</Version>   
+   <PreviewVersion>1.27.7</PreviewVersion>
    <ReleaseDate>May 19, 2021</ReleaseDate>
-   <Title>Markdown Monster 1.27.7.1 is now available</Title>
+   <Title>Markdown Monster 1.27.7 is now available</Title>
    <Detail>
 Recent updates add a new redesigned table editor, a switch to track the active document in the Folder Browser, project and folder level configuration overrides, improved folder browser file search, integrated 'web search &amp; link' for link generation, many preview sync improvements and much more.
 For more detailed release info please see:
