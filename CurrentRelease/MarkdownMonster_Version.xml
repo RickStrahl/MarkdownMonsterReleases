@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>2.0.0.5</Version>   
-   <PreviewVersion>2.0.0.5</PreviewVersion>
-   <ReleaseDate>July 6, 2021</ReleaseDate>
-   <Title>Markdown Monster 2.0.0.5 is now available</Title>
+   <Version>1.28.5</Version>   
+   <PreviewVersion>1.28.5</PreviewVersion>
+   <ReleaseDate>July 19, 2021</ReleaseDate>
+   <Title>Markdown Monster 1.28.5 is now available</Title>
    <Detail>
 Recent updates add a new redesigned table editor, a switch to track the active document in the Folder Browser, project and folder level configuration overrides, improved folder browser file search, integrated 'web search &amp; link' for link generation, many preview sync improvements and much more.
 For more detailed release info please see:
 https://github.com/RickStrahl/MarkdownMonster/blob/master/Changelog.md
+
+Version 2.x is now available, as a paid upgrade. Upgrade information is available at:
+https://markdownmonster.west-wind.com/download#upgrades
 </Detail>
 </VersionInfo>
