@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.0.0.35</Version>   
-   <PreviewVersion>3.0.0.35</PreviewVersion>
-   <ReleaseDate>August 15, 2023</ReleaseDate>
-   <Title>Markdown Monster 3.0.0.35 (Preview) is now available</Title>
-   <Detail>This **Preview Release** adds a number of enhancements:
+   <Version>3.0.0.38</Version>   
+   <PreviewVersion>3.0.0.38</PreviewVersion>
+   <ReleaseDate>August 23, 2023</ReleaseDate>
+   <Title>Markdown Monster 3.0.0.38 is now available</Title>
+   <Detail>This release adds a number of enhancements:
 
 * Runs on .NET 7.0
 * New GitHub Dark and updated GitHub Preview Themes
@@ -16,7 +16,7 @@
 * Customizable External Programs Support
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 
-&lt;small&gt;**Note:** v3 is an [upgrade from v2](https://markdownmonster.west-wind.com/purchase#upgrades).  
+&lt;small&gt;**Note:** v3 is a [paid upgrade from v2](https://markdownmonster.west-wind.com/purchase#upgrades).  
 Current licenses for v2 will work on v3 *during the Preview phase*.
 &lt;/small&gt;
 </Detail>
