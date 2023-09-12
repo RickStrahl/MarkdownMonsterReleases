@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.0.2</Version>   
-   <PreviewVersion>3.0.2</PreviewVersion>
-   <ReleaseDate>September 6, 2023</ReleaseDate>
-   <Title>Markdown Monster 3.0.2 is now available</Title>
+   <Version>3.0.3</Version>   
+   <PreviewVersion>3.0.3</PreviewVersion>
+   <ReleaseDate>September 11, 2023</ReleaseDate>
+   <Title>Markdown Monster 3.0.3 is now available</Title>
    <Detail>This release adds a number of enhancements:
 
 * Runs on .NET 7.0
 * New GitHub Dark and updated GitHub Preview Themes
 * Updated Light Mode Application Theme
+* Many UI updates and workflow optimizations
 * Many new Markup Operations
 * Improved Multiline Markup Support
 * Weblog New Posts Folder for Drafts
@@ -17,7 +18,6 @@
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 
 &lt;small&gt;**Note:** v3 is a [paid upgrade from v2](https://markdownmonster.west-wind.com/purchase#upgrades).  
-Current licenses for v2 will work on v3 *during the Preview phase*.
 &lt;/small&gt;
 </Detail>
 </VersionInfo>
