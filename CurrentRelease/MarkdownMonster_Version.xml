@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.0.11</Version>   
-   <PreviewVersion>3.0.11</PreviewVersion>
-   <ReleaseDate>October 31, 2023</ReleaseDate>
-   <Title>Markdown Monster 3.0.11 is now available</Title>
+   <Version>3.1</Version>   
+   <PreviewVersion>3.1</PreviewVersion>
+   <ReleaseDate>November 5, 2023</ReleaseDate>
+   <Title>Markdown Monster 3.1 is now available</Title>
    <Detail>This release adds a number of enhancements:
 
 * Runs on .NET 7.0
@@ -14,7 +14,7 @@
 * Improved Multiline Markup Support
 * Weblog New Posts Folder for Drafts
 * Improved Html and PDF Exports
-* Customizable External Programs Support
+* Save with Elevated Rights
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 
 &lt;small&gt;**Note:** v3 is a [paid upgrade from v2](https://markdownmonster.west-wind.com/purchase#upgrades).  
