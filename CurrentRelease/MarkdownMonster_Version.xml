@@ -1,12 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.1.16</Version>   
-   <PreviewVersion>3.1.16</PreviewVersion>
-   <ReleaseDate>January 12, 2024</ReleaseDate>
-   <Title>Markdown Monster 3.1.16 is now available</Title>
+   <Version>3.1.17</Version>   
+   <PreviewVersion>3.1.17</PreviewVersion>
+   <ReleaseDate>January 17, 2024</ReleaseDate>
+   <Title>Markdown Monster 3.1.17 is now available</Title>
    <Detail>This release adds a number of enhancements:
 
 * Added support for .NET 8.0
+* Image Generation AI via OpenAI
 * New GitHub Dark and updated GitHub Preview Themes
 * Updated Light Mode Application Theme
 * Many UI updates and workflow optimizations
@@ -16,8 +17,5 @@
 * Improved Html and PDF Exports
 * Save with Elevated Rights
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
-
-&lt;small&gt;**Note:** v3 is a [paid upgrade from v2](https://markdownmonster.west-wind.com/purchase#upgrades).  
-&lt;/small&gt;
 </Detail>
 </VersionInfo>
