@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.6.3</Version>   
-   <PreviewVersion>3.6.3</PreviewVersion>
-   <ReleaseDate>January 30, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.6.3 is now available</Title>
+   <Version>3.6.4</Version>   
+   <PreviewVersion>3.6.4</PreviewVersion>
+   <ReleaseDate>February 16, 2025</ReleaseDate>
+   <Title>Markdown Monster 3.6.4 is now available</Title>
    <Detail>This release adds a number of enhancements:
 
-* Added support for .NET 8.0
-* Image Generation AI via OpenAI
-* New GitHub Dark and updated GitHub Preview Themes
-* Updated Light Mode Application Theme
-* Many UI updates and workflow optimizations
-* Many new Markup Operations
-* Improved Multiline Markup Support
-* Weblog New Posts Folder for Drafts
-* Improved Html and PDF Exports
-* Save with Elevated Rights
+* Updated to .NET 9.0 for better performance
+* Native ARM64 Supp
+* AI Support: Summarize, Translate, Grammar Checking
+* Split the Left Sidebar for multi-panel display
+* New Link Checker Sidebar
+* Support for Admonitions Extensions
+* Capture YouTube Preview Images for YT Embeddings
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
 </VersionInfo>
