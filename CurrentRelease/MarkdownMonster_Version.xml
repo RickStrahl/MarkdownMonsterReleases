@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.7.4</Version>   
-   <PreviewVersion>3.7.4</PreviewVersion>
-   <ReleaseDate>April 28, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.7.4 is now available</Title>
+   <Version>3.7.7</Version>   
+   <PreviewVersion>3.7.7</PreviewVersion>
+   <ReleaseDate>May 9, 2025</ReleaseDate>
+   <Title>Markdown Monster 3.7.7 is now available</Title>
    <Detail>This release adds a number of enhancements:
 
 * Updated to .NET 9.0 for better performance
