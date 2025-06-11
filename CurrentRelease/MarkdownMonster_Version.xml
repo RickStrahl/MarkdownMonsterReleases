@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.7.15</Version>   
-   <PreviewVersion>3.7.15</PreviewVersion>
-   <ReleaseDate>June 5, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.7.15 is now available</Title>
-   <Detail>This release adds a number of enhancements:
+   <Version>3.8</Version>   
+   <PreviewVersion>3.8</PreviewVersion>
+   <ReleaseDate>June 10, 2025</ReleaseDate>
+   <Title>Markdown Monster 3.8 is now available</Title>
+   <Detail>Recent updates added many enhancements:
 
-* Updated to .NET 9.0 for better performance
-* Native ARM64 Support
-* Dictation Integration
+* Native Arm64 Support
 * AI Support: Summarize, Translate, Grammar Checking
-* Split the Left Sidebar for multi-panel display
-* New Link Checker Sidebar
+* AI Ghost Text Suggestions
+* Dictation Integration
+* Optional Split Panels for the Left Sidebar
+* New Document Link Checker
 * Capture YouTube Preview Images for YT Embeddings
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
