@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.8.6</Version>   
-   <PreviewVersion>3.8.6</PreviewVersion>
-   <ReleaseDate>July 21, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.8.6 is now available</Title>
+   <Version>3.8.6.9</Version>   
+   <PreviewVersion>3.8.6.9</PreviewVersion>
+   <ReleaseDate>August 6, 2025</ReleaseDate>
+   <Title>Markdown Monster 3.8.6.9 is now available</Title>
    <Detail>Recent updates added many enhancements:
 
 * Native Arm64 Support
