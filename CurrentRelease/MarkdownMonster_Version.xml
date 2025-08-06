@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.8.6.9</Version>   
-   <PreviewVersion>3.8.6.9</PreviewVersion>
+   <Version>3.9</Version>   
+   <PreviewVersion>3.9</PreviewVersion>
    <ReleaseDate>August 6, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.8.6.9 is now available</Title>
+   <Title>Markdown Monster 3.9 is now available</Title>
    <Detail>Recent updates added many enhancements:
 
-* Native Arm64 Support
-* AI Support: Summarize, Translate, Grammar Checking
+* Many Mermaid Improvements
+* Optional, triggered AI Completions
 * AI Ghost Text Suggestions
-* Dictation Integration
-* Optional Split Panels for the Left Sidebar
+* Support for Font Ligatures
+* Improved RegEx Find support in Editor
+* Mermaid, Python and C++ Inline Syntax Coloring
 * New Document Link Checker
-* Capture YouTube Preview Images for YT Embeddings
+* Improved ARM64 support
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
 </VersionInfo>
