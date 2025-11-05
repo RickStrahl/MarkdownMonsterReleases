@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.11</Version>   
-   <PreviewVersion>3.11</PreviewVersion>
+   <Version>4.0.0.8</Version>   
+   <PreviewVersion>4.0.0.8</PreviewVersion>
    <ReleaseDate>November 4, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.11 is now available</Title>
-   <Detail>Recent updates added many enhancements:
-
+   <Title>Markdown Monster 4.0.0.8 is now available</Title>
+   <Detail>Version 4.0 adds many enhancements:
+* Running on .NET 10
+* Context aware LLM Chat Interface
+* AI Ghost Text Suggestions (optional)
 * Many Mermaid Improvements
-* Optional, triggered AI Completions
-* AI Ghost Text Suggestions
-* Support for Font Ligatures
 * Improved RegEx Find support in Editor
 * Mermaid, Python and C++ Inline Syntax Coloring
 * New Document Link Checker
