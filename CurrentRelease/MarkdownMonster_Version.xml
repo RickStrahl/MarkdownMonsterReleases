@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>3.10</Version>   
-   <PreviewVersion>3.10</PreviewVersion>
-   <ReleaseDate>October 21, 2025</ReleaseDate>
-   <Title>Markdown Monster 3.10 is now available</Title>
+   <Version>3.11</Version>   
+   <PreviewVersion>3.11</PreviewVersion>
+   <ReleaseDate>November 4, 2025</ReleaseDate>
+   <Title>Markdown Monster 3.11 is now available</Title>
    <Detail>Recent updates added many enhancements:
 
 * Many Mermaid Improvements
