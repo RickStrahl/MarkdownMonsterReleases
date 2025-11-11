@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.0.0.8</Version>   
-   <PreviewVersion>4.0.0.8</PreviewVersion>
-   <ReleaseDate>November 4, 2025</ReleaseDate>
-   <Title>Markdown Monster 4.0.0.8 is now available</Title>
+   <Version>4.0.0.15</Version>   
+   <PreviewVersion>4.0.0.15</PreviewVersion>
+   <ReleaseDate>November 11, 2025</ReleaseDate>
+   <Title>Markdown Monster 4.0.0.15 is now available</Title>
    <Detail>Version 4.0 adds many enhancements:
 * Running on .NET 10
 * Context aware LLM Chat Interface
