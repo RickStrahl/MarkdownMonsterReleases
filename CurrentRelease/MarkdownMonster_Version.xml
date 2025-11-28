@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.0.0.20</Version>   
-   <PreviewVersion>4.0.0.20</PreviewVersion>
-   <ReleaseDate>November 19, 2025</ReleaseDate>
-   <Title>Markdown Monster 4.0.0.20 is now available</Title>
+   <Version>4.0.0.30</Version>   
+   <PreviewVersion>4.0.0.30</PreviewVersion>
+   <ReleaseDate>November 28, 2025</ReleaseDate>
+   <Title>Markdown Monster 4.0.0.30 is now available</Title>
    <Detail>Version 4.0 adds many enhancements:
 * Running on .NET 10
+* Improved ARM64 support
 * Context aware LLM Chat Interface
-* AI Ghost Text Suggestions (optional)
+* AI Ghost Text Suggestions
 * Many Mermaid Improvements
 * Improved RegEx Find support in Editor
 * Mermaid, Python and C++ Inline Syntax Coloring
 * New Document Link Checker
-* Improved ARM64 support
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
 </VersionInfo>
