@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.0.2</Version>   
-   <PreviewVersion>4.0.2</PreviewVersion>
-   <ReleaseDate>December 10, 2025</ReleaseDate>
-   <Title>Markdown Monster 4.0.2 is now available</Title>
+   <Version>4.0.3</Version>   
+   <PreviewVersion>4.0.3</PreviewVersion>
+   <ReleaseDate>December 26, 2025</ReleaseDate>
+   <Title>Markdown Monster 4.0.3 is now available</Title>
    <Detail>Version 4.0 adds many enhancements:
 * Running on .NET 10
 * Improved ARM64 support
