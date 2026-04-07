@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.2.6</Version>   
-   <PreviewVersion>4.2.6</PreviewVersion>
-   <ReleaseDate>April 4, 2026</ReleaseDate>
-   <Title>Markdown Monster 4.2.6 is now available</Title>
+   <Version>4.2.7</Version>   
+   <PreviewVersion>4.2.7</PreviewVersion>
+   <ReleaseDate>April 7, 2026</ReleaseDate>
+   <Title>Markdown Monster 4.2.7 is now available</Title>
    <Detail>Version 4.2 adds many enhancements:
 * Improved Preview Syncing
 * Context aware LLM Chat Interface
