@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.4</Version>   
-   <PreviewVersion>4.4</PreviewVersion>
-   <ReleaseDate>May 31, 2026</ReleaseDate>
-   <Title>Markdown Monster 4.4 is now available</Title>
-   <Detail>Version 4.2 adds many enhancements:
-* Improved Preview Syncing
+   <Version>4.4.3</Version>   
+   <PreviewVersion>4.4.3</PreviewVersion>
+   <ReleaseDate>June 22, 2026</ReleaseDate>
+   <Title>Markdown Monster 4.4.3 is now available</Title>
+   <Detail>
+This update adds many enhancements:
+* Improved Preview Sync Performance
+* Fixed Editor to Preview Ratio
+* New Document Link Checker
 * Context aware LLM Chat Interface
 * AI Ghost Text Suggestions
-* AI Summaries, Text Cleanup and Tranlation
+* AI Summaries, Text Cleanup, Translation and Image Gen
 * Many Mermaid Improvements
-* Mermaid, Python and C++ Inline Syntax Coloring
-* New Document Link Checker
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
 </VersionInfo>
