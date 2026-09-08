@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.4.4</Version>   
-   <PreviewVersion>4.4.4</PreviewVersion>
-   <ReleaseDate>July 1, 2026</ReleaseDate>
-   <Title>Markdown Monster 4.4.4 is now available</Title>
+   <Version>4.5.1</Version>   
+   <PreviewVersion>4.5.1</PreviewVersion>
+   <ReleaseDate>September 8, 2026</ReleaseDate>
+   <Title>Markdown Monster 4.5.1 Beta 1 is now available</Title>
    <Detail>
 This update adds many enhancements:
+* Switched to Monaco Editor Platform
+* Support for inline Diffs 
+* Minimap support
+* Razor, Http, Curl Syntax Highlighting editor and preview
 * Improved Preview Sync Performance
-* Fixed Editor to Preview Ratio
-* New Document Link Checker
-* Context aware LLM Chat Interface
-* AI Ghost Text Suggestions
 * AI Summaries, Text Cleanup, Translation and Image Gen
 * Many Mermaid Improvements
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
