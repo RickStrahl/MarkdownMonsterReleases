@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.5.1.1</Version>   
-   <PreviewVersion>4.5.1.1</PreviewVersion>
-   <ReleaseDate>September 8, 2026</ReleaseDate>
-   <Title>Markdown Monster 4.5.1.1 Beta 1 is now available</Title>
+   <Version>4.5.2</Version>   
+   <PreviewVersion>4.5.2</PreviewVersion>
+   <ReleaseDate>September 12, 2026</ReleaseDate>
+   <Title>Markdown Monster 4.5.2 is now available</Title>
    <Detail>
 This update adds many enhancements:
 * Switched to Monaco Editor Platform
@@ -11,8 +11,8 @@ This update adds many enhancements:
 * Minimap support
 * Razor, Http, Curl Syntax Highlighting editor and preview
 * Improved Preview Sync Performance
+* Editor/Preview Ratio now stays fixed
 * AI Summaries, Text Cleanup, Translation and Image Gen
-* Many Mermaid Improvements
 * plus [much more...](https://github.com/RickStrahl/MarkdownMonster/blob/main/Changelog.md)
 </Detail>
 </VersionInfo>
