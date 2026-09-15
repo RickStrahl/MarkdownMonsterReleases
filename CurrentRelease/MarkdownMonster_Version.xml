@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <VersionInfo>
-   <Version>4.5.2</Version>   
-   <PreviewVersion>4.5.2</PreviewVersion>
-   <ReleaseDate>September 12, 2026</ReleaseDate>
-   <Title>Markdown Monster 4.5.2 is now available</Title>
+   <Version>4.5.3</Version>   
+   <PreviewVersion>4.5.3</PreviewVersion>
+   <ReleaseDate>September 15, 2026</ReleaseDate>
+   <Title>Markdown Monster 4.5.3 is now available</Title>
    <Detail>
 This update adds many enhancements:
 * Switched to Monaco Editor Platform
